@@ -39,6 +39,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Commits Git           -->
 <!---------------------------->
+<br>
 
 ▶️ 1️⃣ Automatisation des Commits Git
 <details>
@@ -58,6 +59,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Configuration Auto     -->
 <!---------------------------->
+<br>
 
 ▶️ 2️⃣ Configuration Automatique
 <details>
@@ -77,6 +79,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Assistant Discord      -->
 <!---------------------------->
+<br>
 
 ▶️ 3️⃣ Assistant Discord
 <details>
@@ -96,6 +99,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Dependabot            -->
 <!---------------------------->
+<br>
 
 ▶️ 4️⃣ Mise à Jour Automatique des Dépendances
 <details>
@@ -122,6 +126,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Niveau Débutant       -->
 <!---------------------------->
+<br>
 
 ▶️ 🌱 Niveau Débutant
 
@@ -141,6 +146,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Niveau Intermédiaire  -->
 <!---------------------------->
+<br>
 
 ▶️ 🔄 Niveau Intermédiaire
 
@@ -160,6 +166,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Niveau Avancé        -->
 <!---------------------------->
+<br>
 
 ▶️ 🚀 Niveau Avancé
 
