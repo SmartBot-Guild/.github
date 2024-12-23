@@ -129,19 +129,30 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <br>
 
 ▶️ 🌱 Niveau Débutant
-
-► Premiers pas dans l'automatisation
 <details>
-<summary>En savoir plus</summary>
+<summary><strong>Fondamentaux de l'Automatisation</strong></summary>
 
-1. Installation des outils de base
-   - Conventional Commits Bot
-   - Configuration initiale de dotfiles
-2. Configuration de l'environnement
-   - Mise en place de l'éditeur
-   - Configuration de Git
+- [**Guide du Débutant**](https://github.com/SmartBot-Guild/beginner-guide)
+  - 🛠️ **Installation Essentielle**
+    - Configuration de Git et GitHub
+    - Mise en place de Conventional Commits Bot
+    - Installation basique de dotfiles
+  
+  - 📚 **Apprentissage des Bases**
+    - Comprendre les commandes Git essentielles
+    - Maîtriser la syntaxe des commits conventionnels
+    - Configurer son éditeur (VSCode recommandé)
+  
+  - 🏃‍♂️ **Premiers Pas Pratiques**
+    - Créer son premier workflow d'automatisation
+    - Mettre en place une configuration de base
+    - Utiliser les commandes fondamentales
+  
+  - 🎯 **Objectifs à Atteindre**
+    - Autonomie sur les opérations de base
+    - Compréhension des workflows simples
+    - Utilisation régulière des outils automatisés
 </details>
-
 
 <!---------------------------->
 <!-- Niveau Intermédiaire  -->
@@ -149,37 +160,60 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <br>
 
 ▶️ 🔄 Niveau Intermédiaire
-
-► Optimisation du workflow
 <details>
-<summary>En savoir plus</summary>
+<summary><strong>Maîtrise des Outils Avancés</strong></summary>
 
-1. Mise en place des automatisations
-   - Intégration de Dependabot
-   - Configuration des GitHub Actions
-2. Personnalisation des outils
-   - Création de scripts personnalisés
-   - Configuration avancée
+- [**Guide Intermédiaire**](https://github.com/SmartBot-Guild/intermediate-guide)
+  - 🔧 **Configuration Avancée**
+    - Personnalisation complète de dotfiles
+    - Integration de GitHub Actions
+    - Configuration de Dependabot
+  
+  - 🚀 **Automatisation Poussée**
+    - Création de workflows personnalisés
+    - Scripts d'automatisation sur mesure
+    - Intégration CI/CD basique
+  
+  - 📊 **Monitoring et Optimisation**
+    - Mise en place de tableaux de bord
+    - Suivi des performances
+    - Optimisation des processus
+  
+  - 🛠️ **Outils Spécialisés**
+    - Utilisation avancée de DevBot
+    - Scripts de déploiement automatisés
+    - Gestion avancée des dépendances
 </details>
 
-
 <!---------------------------->
-<!-- Niveau Avancé        -->
+<!-- Niveau Avancé         -->
 <!---------------------------->
 <br>
 
 ▶️ 🚀 Niveau Avancé
-
-► Maîtrise et contribution
 <details>
-<summary>En savoir plus</summary>
+<summary><strong>Excellence et Innovation</strong></summary>
 
-1. Développement d'outils
-   - Création de workflows personnalisés
-   - Développement de scripts avancés
-2. Contribution à l'écosystème
-   - Partage de templates
-   - Création de nouvelles fonctionnalités
+- [**Guide Expert**](https://github.com/SmartBot-Guild/expert-guide)
+  - 🎯 **Expertise Technique**
+    - Développement d'outils personnalisés
+    - Création de plugins et extensions
+    - Architecture de solutions complexes
+  
+  - 🌟 **Innovation**
+    - Conception de nouveaux workflows
+    - Développement de solutions innovantes
+    - Création d'outils pour la communauté
+  
+  - 👥 **Leadership Technique**
+    - Mentorat et formation
+    - Contributions open source
+    - Partage de bonnes pratiques
+  
+  - 🔬 **R&D et Expérimentation**
+    - Exploration de nouvelles technologies
+    - Tests de nouvelles approches
+    - Développement de prototypes
 </details>
 
 
@@ -192,7 +226,5 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 ---
 
 *Simplifiez votre vie de développeur avec les bons outils !* 🚀
-
-[Discord](https://discord.gg/smartbot-guild) • [GitHub](https://github.com/SmartBot-Guild)
 
 </div>
