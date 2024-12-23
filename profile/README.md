@@ -23,6 +23,7 @@
 <!----------------------------------->
 <!-- Section: À quoi sert ce hub ? -->
 <!----------------------------------->
+<br>
 
 ## 🎯 À quoi sert ce hub ?
 
@@ -31,6 +32,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Section: Collections  -->
 <!---------------------------->
+<br>
 
 ## 🤖 Nos Collections
 
@@ -113,6 +115,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <!---------------------------->
 <!-- Par où commencer      -->
 <!---------------------------->
+<br>
 
 ## 🚀 Par où commencer ?
 
