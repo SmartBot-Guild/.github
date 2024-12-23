@@ -46,6 +46,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <summary><strong>Conventional Commits Bot</strong></summary>
 
 - [**Conventional Commits Bot**](https://github.com/conventional-changelog/commitlint)
+  
   - ✨ Ce bot vous aide à écrire des commits propres et standardisés
   - 📝 Il vous guide pour écrire vos commits : type, portée, description
   - 💡 Exemple : "fix(login): correct password validation"
@@ -66,6 +67,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <summary><strong>dotfiles Bot</strong></summary>
 
 - [**dotfiles Bot**](https://github.com/CodelyTV/dotly)
+  
   - 🔧 Configure automatiquement votre environnement de développement
   - 🚀 Installation en une commande : `bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/master/installer)`
   - 📦 Installe et configure : git, zsh, vim, vscode
@@ -86,6 +88,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <summary><strong>DevBot</strong></summary>
 
 - [**DevBot**](https://github.com/reactiflux/discord-irc)
+  
   - 🤖 Assistant personnel pour gérer vos projets sur Discord
   - 📊 Commandes principales : `!github status`, `!deploy`, `!todo`
   - 🔗 Intégration complète avec GitHub
@@ -106,6 +109,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <summary><strong>Dependabot</strong></summary>
 
 - [**Dependabot**](https://github.com/dependabot/dependabot-core)
+  
   - 🔄 Mise à jour automatique des dépendances
   - ⚡ Configuration simple via fichier YAML
   - 🛡️ Vérification de sécurité intégrée
