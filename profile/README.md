@@ -231,4 +231,6 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 
 *Simplifiez votre vie de développeur avec les bons outils !* 🚀
 
+
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
 </div>
