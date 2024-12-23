@@ -1,6 +1,19 @@
 <div align="center">
 
 # 🤖 SmartBot-Guild
+---
+<br>
+<br>
+
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+
+<br>
 *Votre collection de bots pour automatiser vos tâches de développement*
 
 </div>
@@ -8,6 +21,36 @@
 ## 🎯 À quoi sert ce hub ?
 
 Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire gagner du temps dans vos tâches quotidiennes de développement. Plus besoin de chercher pendant des heures, tout est centralisé ici !
+
+
+<br><br>
+
+## 🌟 Commencez l'Aventure
+
+<details>
+<summary><strong>1. Rejoignez la communauté</strong></summary>
+
+[![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+
+</details>
+
+<details>
+<summary><strong>2. Explorez nos ressources</strong></summary>
+
+- 📚 Documentation technique
+- 🔧 Outils spécialisés
+- 📖 Guides pratiques
+
+</details>
+<details>
+<summary><strong>3. Contribuez à l'écosystème</strong></summary>
+
+- Partagez votre expérience
+- Proposez des améliorations
+- Enrichissez la communauté
+
+</details>
+<br><br>
 
 ## 🤖 Nos Collections
 
@@ -104,13 +147,36 @@ bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/master/installer
 
 - 📚 **Envie d'en savoir plus ?**
   → Rejoignez notre Discord pour l'entraide !
+## 👨‍💻 Comment Contribuer
 
-## 🌟 Contribuer
+<details>
+<summary><strong>1. Créez un Fork</strong></summary>
+- Clonez le projet sur votre propre compte GitHub en cliquant sur le bouton "Fork".
+- Assurez-vous que votre fork est à jour avec le projet principal pour éviter les conflits.
 
-Vous connaissez un super bot qui manque à notre collection ? Partagez-le !
-1. Fork ce repo
-2. Ajoutez votre bot avec un guide clair
-3. Créez une Pull Request
+</details>
+
+<details>
+<summary><strong>2. Créez une branche pour votre fonctionnalité ou correction</strong></summary>
+- Exécutez `git checkout -b feature/mon-changement` pour créer une nouvelle branche.
+- Faites vos modifications et validez-les.
+
+</details>
+
+<details>
+<summary><strong>3. Testez vos changements</strong></summary>
+- Avant de soumettre une pull request, assurez-vous que tous les tests passent et que votre code est propre et optimisé.
+- Utilisez des outils comme `paco` et `norminette` pour vérifier la conformité aux normes de codage.
+
+</details>
+
+<details>
+<summary><strong>4. Soumettez votre Pull Request</strong></summary>
+- Créez une pull request détaillant vos modifications. Expliquez clairement ce que vous avez ajouté ou corrigé.
+- Soyez ouvert à la discussion et aux suggestions d'amélioration.
+
+</details>
+<br>
 
 ---
 
