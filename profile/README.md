@@ -1,189 +1,271 @@
 <div align="center">
 
 # 🤖 SmartBot-Guild
----
-<br>
-<br>
-
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
-
-<br>
-*Votre collection de bots pour automatiser vos tâches de développement*
+*Collection de bots et d'automatisations pour développeurs*
 
 </div>
 
-## 🎯 À quoi sert ce hub ?
+## 🎯 Introduction
 
-Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire gagner du temps dans vos tâches quotidiennes de développement. Plus besoin de chercher pendant des heures, tout est centralisé ici !
+[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
+[![Discord](https://img.shields.io/badge/Discord-Rejoignez_nous-5865F2?logo=discord)](https://discord.gg/smartbot-guild)
+[![Awesome Bots](https://img.shields.io/badge/Awesome-Bots-FC60A8?logo=awesomelists)](https://github.com/topics/automation-bot)
+[![GitHub Stars](https://img.shields.io/github/stars/SmartBot-Guild/SmartBot-Guild?style=social)](https://github.com/SmartBot-Guild)
 
+> [!NOTE]
+> SmartBot-Guild est votre hub centralisé de bots et d'automatisations pour développeurs. Notre mission est de vous faire gagner du temps en automatisant les tâches répétitives de votre workflow.
 
-<br><br>
+### 🔗 Liens Rapides
+- [Collection de Bots](https://github.com/SmartBot-Guild/bots)
+- [Documentation](https://docs.smartbot-guild.com)
+- [Tutoriels](https://github.com/SmartBot-Guild/tutorials)
+- [Contribution](https://github.com/SmartBot-Guild/contributing)
 
-## 🌟 Commencez l'Aventure
+### 🎯 Objectifs
+- **Centraliser** les meilleurs bots et outils d'automatisation
+- **Simplifier** leur installation et utilisation
+- **Partager** les bonnes pratiques d'automatisation
+
+### 💻 Technologies Supportées
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python-bot)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/topics/javascript-bot)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://github.com/topics/shell-script)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/topics/docker-bot)
+
+## ⚠️ Avertissements
+
+> [!IMPORTANT]
+> ### 🛡️ Sécurité et Permissions
+> - Vérifiez toujours les permissions accordées aux bots
+> - Ne partagez jamais vos tokens et clés API
+> - Limitez l'accès aux ressources sensibles
+> - Surveillez régulièrement l'activité des bots
+
+> [!WARNING]
+> ### ⚡ Utilisation et Limitations
+> - Testez dans un environnement de développement
+> - Respectez les limites d'API (rate limits)
+> - Évitez les actions automatisées sur main/master
+> - Validez les modifications avant déploiement
+
+> [!CAUTION]
+> ### 💾 Données et Sauvegarde
+> - Sauvegardez vos données avant toute automatisation
+> - Conservez des logs des actions automatisées
+> - Prévoyez une procédure de rollback
+> - Documentez toutes les configurations
+
+## 🤖 Bots & Automatisations
 
 <details>
-<summary><strong>1. Rejoignez la communauté</strong></summary>
+<summary><strong>1. Git & Commits</strong></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
-
-</details>
-
-<details>
-<summary><strong>2. Explorez nos ressources</strong></summary>
-
-- 📚 Documentation technique
-- 🔧 Outils spécialisés
-- 📖 Guides pratiques
-
-</details>
-<details>
-<summary><strong>3. Contribuez à l'écosystème</strong></summary>
-
-- Partagez votre expérience
-- Proposez des améliorations
-- Enrichissez la communauté
-
-</details>
-<br><br>
-
-## 🤖 Nos Collections
-
-### 1️⃣ Automatisation des Commits Git
-
-**[Conventional Commits Bot](https://github.com/conventional-changelog/commitlint)**
+### Conventional Commits Bot
 ```bash
-# Ce bot vous aide à écrire des commits propres et standardisés
 npm install -g @commitlint/cli
 ```
-- ✨ **Pourquoi l'utiliser ?** Fini les commits du style "fix stuff" ou "update"
-- 📝 **Comment ça marche ?** Il vous guide pour écrire vos commits : type, portée, description
-- 💡 **Exemple concret :** Au lieu de écrire "fix bug", il vous fera écrire "fix(login): correct password validation"
+- **Usage :** Standardisation des messages de commit
+- **Avantages :** 
+  - Commits propres et lisibles
+  - Génération automatique de changelog
+  - Intégration CI/CD facilitée
 
-### 2️⃣ Configuration Automatique
-
-**[dotfiles Bot](https://github.com/CodelyTV/dotly)**
+### Semantic Release
 ```bash
-# Configure automatiquement votre environnement de développement
-bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/master/installer)
+npm install -g semantic-release
 ```
-- 🔧 **À quoi ça sert ?** Configure votre environnement en 2 minutes au lieu de 2 heures
-- 🚀 **Que fait-il ?** Installe et configure : git, zsh, vim, vscode, et bien plus
-- 📦 **Le plus :** Sauvegarde votre configuration pour la réutiliser sur une autre machine
+- **Usage :** Gestion automatique des versions
+- **Configuration :** 
+  - Règles de versioning personnalisables
+  - Génération de notes de version
+  - Déploiement automatique
 
-### 3️⃣ Assistant Discord pour Développeurs
+</details>
 
-**[DevBot](https://github.com/reactiflux/discord-irc)**
-- 🤖 **Son rôle :** Votre assistant personnel pour gérer vos projets sur Discord
-- 📚 **Fonctionnalités :**
-  ```
-  !github status - Vérifie l'état de vos repos
-  !deploy project - Lance un déploiement
-  !todo - Gère votre liste de tâches
-  ```
-- 🎯 **Idéal pour :** Les équipes qui utilisent Discord comme outil principal
+<details>
+<summary><strong>2. Configuration d'Environnement</strong></summary>
 
-### 4️⃣ Mise à Jour Automatique des Dépendances
+### Dotfiles Bot
+```bash
+bash <(curl -s https://raw.githubusercontent.com/dotbot/dotbot/master/tools/install.sh)
+```
+- **Usage :** Configuration automatique de l'environnement
+- **Fonctionnalités :**
+  - Installation des outils essentiels
+  - Synchronisation des configurations
+  - Backup automatique
 
-**[Dependabot](https://github.com/dependabot/dependabot-core)**
-- 🔄 **Ce qu'il fait :** Vérifie et met à jour automatiquement vos dépendances
-- ⚡ **Configuration simple :**
-  ```yaml
-  # .github/dependabot.yml
-  version: 2
-  updates:
-    - package-ecosystem: "npm"
-      directory: "/"
-      schedule:
-        interval: "daily"
-  ```
-- 🛡️ **Pourquoi c'est important ?** Maintient votre projet sécurisé et à jour sans effort
+### Version Manager
+```bash
+curl https://mise.run | sh
+```
+- **Usage :** Gestion des versions de langages
+- **Capacités :**
+  - Support multi-langage
+  - Configuration par projet
+  - Switching automatique
 
-### 5️⃣ Tests Automatisés
+</details>
 
-**[GitHub Actions Bot](https://github.com/actions/starter-workflows)**
-- 🧪 **Objectif :** Lance vos tests automatiquement à chaque push
-- 📋 **Setup rapide :**
-  ```yaml
-  # .github/workflows/test.yml
-  name: Tests
-  on: [push]
-  jobs:
-    test:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-        - run: npm test
-  ```
-- 🎉 **Avantage :** Plus besoin de penser à lancer les tests
+<details>
+<summary><strong>3. Discord Developer Tools</strong></summary>
 
-## 🚀 Par où commencer ?
+### DevBot Assistant
+- **Configuration :**
+```javascript
+const config = {
+  prefix: '!',
+  features: ['github', 'deployment', 'tasks']
+}
+```
+- **Commandes principales :**
+  - `!github status` - État des repos
+  - `!deploy` - Déploiement
+  - `!todo` - Gestion des tâches
 
-1. **Pour débutants :**
-   - Commencez par Conventional Commits Bot pour apprendre les bonnes pratiques
-   - Utilisez dotfiles Bot pour avoir un environnement pro rapidement
-   - Intégrez DevBot à votre Discord
+### Webhook Automation
+- **Setup :**
+```bash
+npm install discord.js
+```
+- **Fonctionnalités :**
+  - Notifications Git
+  - Alertes CI/CD
+  - Rapports automatiques
 
-2. **Pour niveau intermédiaire :**
-   - Ajoutez Dependabot pour la maintenance automatique
-   - Configurez les GitHub Actions pour vos tests
+</details>
 
-3. **Pour avancés :**
-   - Combinez tous les outils
-   - Créez vos propres scripts d'automatisation
+<details>
+<summary><strong>4. Maintenance Automatique</strong></summary>
 
-## 💡 Besoin d'aide ?
+### Dependabot
+```yaml
+# .github/dependabot.yml
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+```
+- **Usage :** Mise à jour automatique des dépendances
+- **Fonctionnalités :**
+  - Scan de sécurité
+  - PR automatiques
+  - Configuration flexible
 
-- 🤔 **Question courante :** "Comment choisir le bon bot ?"
-  → Commencez par identifier votre tâche la plus répétitive !
+### GitHub Actions
+```yaml
+# .github/workflows/test.yml
+name: Tests
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm test
+```
+- **Usage :** Automatisation du workflow
+- **Capacités :**
+  - Tests automatiques
+  - Déploiement continu
+  - Validation du code
 
-- 🆘 **Problème d'installation ?**
-  → Chaque bot a un guide détaillé dans sa section
+</details>
 
-- 📚 **Envie d'en savoir plus ?**
-  → Rejoignez notre Discord pour l'entraide !
+## 📚 Documentation
+
+<details>
+<summary><strong>1. Guides de Démarrage</strong></summary>
+
+### Pour Débutants
+- Installation des outils essentiels
+- Configuration de base
+- Premiers pas avec les bots
+
+### Pour Intermédiaires
+- Intégration multiple
+- Personnalisation avancée
+- Automatisation complexe
+
+</details>
+
+<details>
+<summary><strong>2. Bonnes Pratiques</strong></summary>
+
+### Sécurité
+- Gestion des tokens
+- Permissions minimales
+- Backup régulier
+
+### Performance
+- Optimisation des workflows
+- Réduction des temps d'exécution
+- Gestion des ressources
+
+</details>
+
 ## 👨‍💻 Comment Contribuer
 
 <details>
 <summary><strong>1. Créez un Fork</strong></summary>
-- Clonez le projet sur votre propre compte GitHub en cliquant sur le bouton "Fork".
-- Assurez-vous que votre fork est à jour avec le projet principal pour éviter les conflits.
+
+- Clonez le projet sur votre compte GitHub
+- Gardez votre fork à jour avec le projet principal
+- Configurez votre environnement local
 
 </details>
 
 <details>
-<summary><strong>2. Créez une branche pour votre fonctionnalité ou correction</strong></summary>
-- Exécutez `git checkout -b feature/mon-changement` pour créer une nouvelle branche.
-- Faites vos modifications et validez-les.
+<summary><strong>2. Développez votre Feature</strong></summary>
+
+- Créez une nouvelle branche : `git checkout -b feature/ma-feature`
+- Codez votre fonctionnalité
+- Commitez avec des messages clairs
 
 </details>
 
 <details>
-<summary><strong>3. Testez vos changements</strong></summary>
-- Avant de soumettre une pull request, assurez-vous que tous les tests passent et que votre code est propre et optimisé.
-- Utilisez des outils comme `paco` et `norminette` pour vérifier la conformité aux normes de codage.
+<summary><strong>3. Testez Soigneusement</strong></summary>
+
+- Vérifiez la qualité du code
+- Lancez tous les tests
+- Documentez vos changements
 
 </details>
 
 <details>
-<summary><strong>4. Soumettez votre Pull Request</strong></summary>
-- Créez une pull request détaillant vos modifications. Expliquez clairement ce que vous avez ajouté ou corrigé.
-- Soyez ouvert à la discussion et aux suggestions d'amélioration.
+<summary><strong>4. Soumettez votre PR</strong></summary>
+
+- Créez une PR détaillée
+- Répondez aux retours
+- Maintenez votre code
 
 </details>
-<br>
+
+## 📫 Support & Contact
+
+<details>
+<summary><strong>Besoin d'Aide ?</strong></summary>
+
+### Communauté
+- Discord : [Rejoignez-nous](https://discord.gg/smartbot-guild)
+- GitHub : [Discussions](https://github.com/SmartBot-Guild/discussions)
+- Documentation : [Wiki](https://docs.smartbot-guild.com)
+
+### Contact Direct
+- Email : support@smartbot-guild.com
+- Twitter : @SmartBotGuild
+
+</details>
 
 ---
 
 <div align="center">
 
-*Simplifiez votre vie de développeur avec les bons outils !* 🚀
+*Automatisez intelligemment, développez efficacement* 🚀
 
-[Discord](https://discord.gg/smartbot-guild) • [GitHub](https://github.com/SmartBot-Guild)
+[Discord](https://discord.gg/smartbot-guild) • [GitHub](https://github.com/SmartBot-Guild) • [Documentation](https://docs.smartbot-guild.com)
 
 </div>
