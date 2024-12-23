@@ -1,214 +1,222 @@
 <div align="center">
 
-# 🤖 SmartBot-Guild
+# 🤖 SmartBot-Guild @ 42
 ---
 
-*Votre hub d'excellence pour l'automatisation intelligente*
+*Hub d'automatisation et de bots pour la communauté 42*
 
 <br>
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![Discord](https://img.shields.io/badge/Discord-Rejoignez_nous-5865F2?logo=discord)](https://discord.gg/votre-serveur)
-[![Documentation](https://img.shields.io/badge/Docs-SmartBot_Guild-blue?logo=gitbook)](https://docs.smartbot-guild.com)
+[![Discord](https://img.shields.io/badge/Discord-42_Community-5865F2?logo=discord)](https://discord.gg/42)
+[![42 Intra](https://img.shields.io/badge/42-Intra-00BABC?logo=42)](https://intra.42.fr)
 [![Status](https://img.shields.io/badge/Status-Online-success?logo=statuspage)](https://status.smartbot-guild.com)
 
-*Développez, Automatisez, Innovez*
+*Automatisez votre parcours 42 - Du Code à la Communauté*
 
 </div>
 
-> [!TIP]
-> Explorez nos collections par catégorie en utilisant les menus déroulants ci-dessous !
+> [!WARNING]
+> ### ⚠️ Directives d'Utilisation
+> 
+> - Respectez la norme 42 et les règles de l'école
+> - N'utilisez pas les bots pour contourner les systèmes anti-triche
+> - Les outils d'automatisation doivent respecter l'esprit d'apprentissage de 42
+> - La collaboration est encouragée, mais le travail doit rester personnel
+> - Protégez vos tokens et données d'authentification
+> 
+> ### 🛡️ Bonnes Pratiques pour 42
+> 
+> - Documentez vos scripts et configurations
+> - Partagez vos améliorations avec la communauté
+> - Testez vos bots sur des environnements de dev
+> - Respectez les limites de rate des APIs (intra/discord)
+> - Vérifiez la compatibilité avec l'environnement 42
 
 <br>
-
-## 🎯 Démarrage Rapide
-
-<details>
-<summary><strong>🔥 Nouveautés</strong></summary>
-
-### Dernières Mises à Jour
-- 🎉 Nouveau bot de modération intelligent
-- 🚀 Support des slash commands Discord
-- 🔧 Améliorations des performances
-- 📊 Dashboard analytique
-
-### Prochainement
-- 🤖 Integration GPT-4
-- 📱 Applications mobiles
-- 🔄 Synchronisation multi-plateformes
-- 🎮 Nouveaux mini-jeux
-
-</details>
 
 ## 🤖 Collections de Bots
 
 <details>
-<summary><strong>Discord Bots Premium</strong></summary>
+<summary><strong>🛠️ Outils de Développement</strong></summary>
 
-### 🛡️ Modération & Administration
-- [**MEE6**](https://mee6.xyz/)
-  - Auto-modération
+### Norminette & Code Quality
+- [**42 Norminette Bot**](https://github.com/SmartBot-Guild/norminette-bot)
+  - Vérification de la norme en temps réel
+  - Intégration Discord/Slack
+  - Suggestions de corrections
+  - Support C et C++
+
+- [**Code Review Bot**](https://github.com/SmartBot-Guild/review-bot)
+  - Analyse statique du code
+  - Détection des erreurs courantes
+  - Suggestions d'amélioration
+  - Support multi-langages
+
+### Git & Version Control
+- [**Git Helper**](https://github.com/SmartBot-Guild/git-helper)
+  - Automatisation des commits
+  - Gestion des branches
+  - Templates de PR
+  - Conventions de nommage 42
+
+### Build & Test
+- [**42 Tester**](https://github.com/SmartBot-Guild/42-tester)
+  - Tests unitaires automatisés
+  - Benchmarking
+  - Rapports de couverture
+  - Intégration continue
+
+</details>
+
+<details>
+<summary><strong>🎓 Assistance Académique</strong></summary>
+
+### Ressources & Documentation
+- [**42 Doc Bot**](https://github.com/SmartBot-Guild/42-doc)
+  - Documentation des projets
+  - Guides et tutoriels
+  - Ressources d'apprentissage
+  - FAQ automatisée
+
+### Progress Tracking
+- [**42 Progress Bot**](https://github.com/SmartBot-Guild/progress-tracker)
+  - Suivi de progression
+  - Rappels d'échéances
+  - Statistics de progression
+  - Graphiques de performance
+
+### Peer Learning
+- [**Peer Connect**](https://github.com/SmartBot-Guild/peer-connect)
+  - Matching pour peer-correction
+  - Organisation de sessions d'étude
+  - Partage de ressources
+  - Système de mentoring
+
+</details>
+
+<details>
+<summary><strong>🤝 Community Tools</strong></summary>
+
+### Discord Management
+- [**42 Community Bot**](https://github.com/SmartBot-Guild/community-bot)
+  - Gestion des rôles
   - Systèmes de niveaux
-  - Messages de bienvenue personnalisés
-  - Anti-raid & Anti-spam
+  - Events automatisés
+  - Intégration Intra 42
 
-- [**Dyno**](https://dyno.gg/) 
-  - Modération avancée
-  - Logs détaillés
-  - Rôles automatiques
-  - Commandes personnalisées
+### Event Organization
+- [**Event Master**](https://github.com/SmartBot-Guild/event-bot)
+  - Organisation de hackathons
+  - Rush planification
+  - Gestion des inscriptions
+  - Notifications automatiques
 
-- [**ModMail**](https://github.com/kyb3r/modmail)
-  - Système de ticket
-  - Support utilisateur
-  - Archives des conversations
-  - Intégration webhooks
-
-### 🎵 Musique & Divertissement
-- [**Hydra**](https://hydra.bot/)
-  - Haute qualité audio
-  - Support Spotify/YouTube
-  - Files d'attente avancées
-  - Effets audio
-
-- [**Rythm Alternative**](https://github.com/Cog-Creators/Red-DiscordBot)
-  - Open source
-  - Personnalisable
-  - Multi-serveur
-  - Playlists sauvegardées
-
-### 🎲 Mini-jeux & Fun
-- [**Dank Memer**](https://dankmemer.lol/)
-  - Économie virtuelle
-  - Mini-jeux variés
-  - Système de récompenses
-  - Personnalisation avancée
+### Knowledge Sharing
+- [**Resource Hub**](https://github.com/SmartBot-Guild/resource-hub)
+  - Wiki collaboratif
+  - Partage de snippets
+  - Base de données de solutions
+  - Guides communautaires
 
 </details>
 
 <details>
-<summary><strong>Telegram Bots Essentiels</strong></summary>
+<summary><strong>🔧 Automation Tools</strong></summary>
 
-### 📊 Analytics & Gestion
-- [**Stats Bot**](https://github.com/SmartBot-Guild/telegram-stats)
-  - Statistiques de groupe
-  - Rapports d'activité
-  - Graphiques interactifs
-  - Export de données
+### Development Workflow
+- [**42 Workspace Setup**](https://github.com/SmartBot-Guild/workspace-setup)
+  - Configuration automatique de l'environnement
+  - Installation des outils
+  - Backup des configurations
+  - Scripts utilitaires
 
-### 🔧 Utilitaires
-- [**File2Link Bot**](https://github.com/SmartBot-Guild/file-share-bot)
-  - Partage de fichiers
-  - Compression automatique
-  - Preview de médias
-  - Stockage cloud
+### Task Automation
+- [**Dev Assistant**](https://github.com/SmartBot-Guild/dev-assistant)
+  - Automatisation des tâches répétitives
+  - Templates de projets
+  - Scripts de déploiement
+  - Outils de productivité
 
-### 🎮 Divertissement
-- [**GameBot**](https://github.com/SmartBot-Guild/telegram-games)
-  - Quiz interactifs
-  - Jeux de mots
-  - Tournois
-  - Classements
-
-</details>
-
-<details>
-<summary><strong>Bots d'Automatisation</strong></summary>
-
-### 🌐 Web Automation
-- [**WebScraper Pro**](https://github.com/SmartBot-Guild/web-scraper)
-  - Scraping intelligent
-  - Export multi-format
-  - Proxies intégrés
-  - Scheduling avancé
-
-### 📊 Data & Analytics
-- [**DataBot**](https://github.com/SmartBot-Guild/data-analytics)
-  - Visualisation de données
-  - Rapports automatisés
-  - Alertes personnalisées
-  - Machine Learning
+### CI/CD Pipeline
+- [**42 Pipeline**](https://github.com/SmartBot-Guild/42-pipeline)
+  - Tests automatisés
+  - Déploiement continu
+  - Vérification de la norme
+  - Rapports de qualité
 
 </details>
 
-## 🛠️ Technologies & Frameworks
+## 🛠️ Stack Technique
 
 <details>
-<summary><strong>Stack Technique</strong></summary>
+<summary><strong>Technologies Principales</strong></summary>
 
-### Languages
+### Core
+- [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-  - [FastAPI](https://fastapi.tiangolo.com/)
-  - [discord.py](https://discordpy.readthedocs.io/)
-  - [python-telegram-bot](https://python-telegram-bot.org/)
+- [![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-- [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-  - [Discord.js](https://discord.js.org/)
-  - [Telegraf](https://telegraf.js.org/)
-  - [Express](https://expressjs.com/)
-
-### Databases
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### DevOps
+### Development
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 - [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-- [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+- [![Make](https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
+- [![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)](https://www.vim.org/)
 
-### AI & ML
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
-- [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=hugging-face&logoColor=black)](https://huggingface.co/)
+### APIs & Services
+- [![42 API](https://img.shields.io/badge/42_API-00BABC?logo=42&logoColor=white)](https://api.intra.42.fr/)
+- [![Discord API](https://img.shields.io/badge/Discord_API-5865F2?logo=discord&logoColor=white)](https://discord.com/developers/docs)
+- [![GitHub API](https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white)](https://docs.github.com/en/rest)
 
 </details>
 
 ## 📚 Documentation
 
 <details>
-<summary><strong>Guides & Tutorials</strong></summary>
+<summary><strong>Guides & Resources</strong></summary>
 
-### 🚀 Démarrage
-1. [Installation rapide](https://docs.smartbot-guild.com/quickstart)
-2. [Configuration basique](https://docs.smartbot-guild.com/config)
-3. [Premiers pas](https://docs.smartbot-guild.com/first-steps)
+### 📖 Utilisation des Bots
+- [Guide de démarrage](https://docs.smartbot-guild.com/start)
+- [Configuration des bots](https://docs.smartbot-guild.com/config)
+- [Commandes disponibles](https://docs.smartbot-guild.com/commands)
 
-### 📖 Tutoriels Avancés
-- [Déploiement Docker](https://docs.smartbot-guild.com/docker)
-- [Intégration CI/CD](https://docs.smartbot-guild.com/cicd)
-- [Monitoring](https://docs.smartbot-guild.com/monitoring)
+### 🔧 Installation & Setup
+- [Installation locale](https://docs.smartbot-guild.com/local-setup)
+- [Déploiement](https://docs.smartbot-guild.com/deployment)
+- [Maintenance](https://docs.smartbot-guild.com/maintenance)
 
-### 🔧 API Reference
-- [Documentation API](https://api.smartbot-guild.com/docs)
-- [Exemples d'intégration](https://docs.smartbot-guild.com/examples)
-- [SDK Client](https://docs.smartbot-guild.com/sdk)
+### 🎓 Ressources 42
+- [Bonnes pratiques](https://docs.smartbot-guild.com/42-practices)
+- [FAQ Projets](https://docs.smartbot-guild.com/project-faq)
+- [Tips & Tricks](https://docs.smartbot-guild.com/tips)
 
 </details>
 
 ## 🤝 Contribution
 
 <details>
-<summary><strong>Comment Contribuer</strong></summary>
+<summary><strong>Participer au Projet</strong></summary>
 
-### 🌟 Types de Contributions
-- Développement de fonctionnalités
-- Correction de bugs
-- Documentation
-- Tests
-- Design UI/UX
+### Types de Contributions
+- Développement de nouveaux bots
+- Amélioration des bots existants
+- Documentation et tutorials
+- Tests et feedback
+- Idées et suggestions
 
-### 📝 Process
+### Process
 1. Fork le projet
-2. Créez votre branche (`git checkout -b feature/AmazingFeature`)
-3. Commitez vos changements (`git commit -m 'Add: Amazing Feature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
+2. Créez votre branche (`git checkout -b feature/NewBot`)
+3. Commitez vos changements (`git commit -m 'Add: NewBot'`)
+4. Push vers la branche (`git push origin feature/NewBot`)
 5. Ouvrez une Pull Request
 
-### 🎯 Standards de Code
-- [Guide de style Python](https://docs.smartbot-guild.com/style-guide/python)
-- [Guide de style JavaScript](https://docs.smartbot-guild.com/style-guide/js)
-- [Conventions de commit](https://docs.smartbot-guild.com/commits)
+### Standards
+- Respect de la norme 42
+- Documentation claire
+- Tests unitaires
+- Code maintenable
 
 </details>
 
@@ -218,14 +226,14 @@
 <summary><strong>Besoin d'aide ?</strong></summary>
 
 ### Communauté
-- [Discord Server](https://discord.gg/votre-serveur)
-- [Forum](https://forum.smartbot-guild.com)
+- [Discord 42](https://discord.gg/42)
+- [Forum SmartBot](https://forum.smartbot-guild.com)
 - [GitHub Discussions](https://github.com/SmartBot-Guild/discussions)
 
-### Support Direct
-- [Support Technique](https://support.smartbot-guild.com)
-- [Email](mailto:support@smartbot-guild.com)
-- [Twitter](https://twitter.com/SmartBotGuild)
+### Contact Direct
+- [Intra @username](https://profile.intra.42.fr/users/username)
+- [Email](mailto:contact@smartbot-guild.com)
+- [Discord Support](https://discord.gg/smartbot-guild)
 
 </details>
 
@@ -235,12 +243,12 @@
 
 ### 🌟 Supportez le Projet
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/SmartBot-Guild)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SmartBotGuild)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/smartbotguild)
+[![GitHub Stars](https://img.shields.io/github/stars/SmartBot-Guild/SmartBot-Guild?style=for-the-badge&logo=github)](https://github.com/SmartBot-Guild)
+[![GitHub Forks](https://img.shields.io/github/forks/SmartBot-Guild/SmartBot-Guild?style=for-the-badge&logo=github)](https://github.com/SmartBot-Guild/network/members)
+[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/smartbot-guild)
 
-*Construisons ensemble l'avenir de l'automatisation* 🚀
+*Améliorons ensemble l'expérience 42* 🚀
 
-[Site Web](https://smartbot-guild.com) • [Blog](https://blog.smartbot-guild.com) • [Status](https://status.smartbot-guild.com)
+[Site Web](https://smartbot-guild.com) • [Documentation](https://docs.smartbot-guild.com) • [Status](https://status.smartbot-guild.com)
 
 </div>
