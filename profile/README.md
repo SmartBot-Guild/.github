@@ -1,252 +1,246 @@
 <div align="center">
 
-# 🤖 SmartBot-Guild Hub
+# 🤖 SmartBot-Guild
 ---
 
-*Bienvenue dans la collection SmartBot-Guild, un espace dédié aux bots et aux automatisations. Découvrez une vaste gamme de bots et de scripts utiles dans différents langages de programmation et plateformes.*
+*Votre hub d'excellence pour l'automatisation intelligente*
 
 <br>
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+[![Discord](https://img.shields.io/badge/Discord-Rejoignez_nous-5865F2?logo=discord)](https://discord.gg/votre-serveur)
+[![Documentation](https://img.shields.io/badge/Docs-SmartBot_Guild-blue?logo=gitbook)](https://docs.smartbot-guild.com)
+[![Status](https://img.shields.io/badge/Status-Online-success?logo=statuspage)](https://status.smartbot-guild.com)
 
-
-<br>
-
-*Une collection de bots et d'automatisations pour divers langages de programmation et plateformes.*
+*Développez, Automatisez, Innovez*
 
 </div>
-<br><br>
 
-> [!WARNING]  
-> **Note importante** : Ces bots doivent être utilisés de manière éthique et conformément aux lois en vigueur. Toute utilisation abusive sera signalée.
+> [!TIP]
+> Explorez nos collections par catégorie en utilisant les menus déroulants ci-dessous !
 
-<br><br>
+<br>
 
-## 🌟 Commencez l'Aventure
+## 🎯 Démarrage Rapide
 
 <details>
-<summary><strong>1. Rejoignez la communauté</strong></summary>
+<summary><strong>🔥 Nouveautés</strong></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+### Dernières Mises à Jour
+- 🎉 Nouveau bot de modération intelligent
+- 🚀 Support des slash commands Discord
+- 🔧 Améliorations des performances
+- 📊 Dashboard analytique
+
+### Prochainement
+- 🤖 Integration GPT-4
+- 📱 Applications mobiles
+- 🔄 Synchronisation multi-plateformes
+- 🎮 Nouveaux mini-jeux
+
+</details>
+
+## 🤖 Collections de Bots
+
+<details>
+<summary><strong>Discord Bots Premium</strong></summary>
+
+### 🛡️ Modération & Administration
+- [**MEE6**](https://mee6.xyz/)
+  - Auto-modération
+  - Systèmes de niveaux
+  - Messages de bienvenue personnalisés
+  - Anti-raid & Anti-spam
+
+- [**Dyno**](https://dyno.gg/) 
+  - Modération avancée
+  - Logs détaillés
+  - Rôles automatiques
+  - Commandes personnalisées
+
+- [**ModMail**](https://github.com/kyb3r/modmail)
+  - Système de ticket
+  - Support utilisateur
+  - Archives des conversations
+  - Intégration webhooks
+
+### 🎵 Musique & Divertissement
+- [**Hydra**](https://hydra.bot/)
+  - Haute qualité audio
+  - Support Spotify/YouTube
+  - Files d'attente avancées
+  - Effets audio
+
+- [**Rythm Alternative**](https://github.com/Cog-Creators/Red-DiscordBot)
+  - Open source
+  - Personnalisable
+  - Multi-serveur
+  - Playlists sauvegardées
+
+### 🎲 Mini-jeux & Fun
+- [**Dank Memer**](https://dankmemer.lol/)
+  - Économie virtuelle
+  - Mini-jeux variés
+  - Système de récompenses
+  - Personnalisation avancée
 
 </details>
 
 <details>
-<summary><strong>2. Explorez nos ressources</strong></summary>
+<summary><strong>Telegram Bots Essentiels</strong></summary>
 
-- 📚 Documentation technique
-- 🔧 Outils spécialisés
-- 📖 Guides pratiques
+### 📊 Analytics & Gestion
+- [**Stats Bot**](https://github.com/SmartBot-Guild/telegram-stats)
+  - Statistiques de groupe
+  - Rapports d'activité
+  - Graphiques interactifs
+  - Export de données
 
-</details>
-<details>
-<summary><strong>3. Contribuez à l'écosystème</strong></summary>
+### 🔧 Utilitaires
+- [**File2Link Bot**](https://github.com/SmartBot-Guild/file-share-bot)
+  - Partage de fichiers
+  - Compression automatique
+  - Preview de médias
+  - Stockage cloud
 
-- Partagez votre expérience
-- Proposez des améliorations
-- Enrichissez la communauté
-
-</details>
-<br><br>
-
-## 🛠️ Notre selection de Bots
-
-<details>
-<summary><strong>🤖 [Bots Discord](https://github.com/topics/discord-bot) - Bots utiles pour Discord</strong></summary>
-
-<details>
-<summary><strong>Moderation Bots</strong></summary>
-- [Modération automatique](https://github.com/topics/auto-moderation-bot)
-- [Gestion de salons](https://github.com/topics/channel-management)
-- [Kick & Ban](https://github.com/topics/kick-ban)
-</details>
-
-<details>
-<summary><strong>Music Bots</strong></summary>
-- [Playlists musicales](https://github.com/topics/music-playlist-bot)
-- [Commandes de musique](https://github.com/topics/music-bot-commands)
-- [Bot de lecture audio](https://github.com/topics/audio-player)
-</details>
-
-<details>
-<summary><strong>Game Bots</strong></summary>
-- [Jeux interactifs](https://github.com/topics/interactive-game-bot)
-- [Scores et classements](https://github.com/topics/game-scoreboard)
-</details>
+### 🎮 Divertissement
+- [**GameBot**](https://github.com/SmartBot-Guild/telegram-games)
+  - Quiz interactifs
+  - Jeux de mots
+  - Tournois
+  - Classements
 
 </details>
 
 <details>
-<summary><strong>📲 [Bots Telegram](https://github.com/topics/telegram-bot) - Bots pour Telegram</strong></summary>
+<summary><strong>Bots d'Automatisation</strong></summary>
 
-<details>
-<summary><strong>Notification Bots</strong></summary>
-- [Système d'alertes](https://github.com/topics/alert-system)
-- [Alertes en temps réel](https://github.com/topics/real-time-alerts)
-</details>
+### 🌐 Web Automation
+- [**WebScraper Pro**](https://github.com/SmartBot-Guild/web-scraper)
+  - Scraping intelligent
+  - Export multi-format
+  - Proxies intégrés
+  - Scheduling avancé
 
-<details>
-<summary><strong>Group Management Bots</strong></summary>
-- [Gestion des groupes](https://github.com/topics/group-management)
-- [Modération de groupe](https://github.com/topics/group-moderation)
-</details>
-
-</details>
-
-<details>
-<summary><strong>⚙️ [Bots d'automatisation](https://github.com/topics/automation-bot) - Bots pour automatiser des tâches</strong></summary>
-
-<details>
-<summary><strong>Scraping Bots</strong></summary>
-- [Scraping web](https://github.com/topics/web-scraping)
-- [Récupération de données](https://github.com/topics/data-extraction)
-</details>
-
-<details>
-<summary><strong>Monitoring Bots</strong></summary>
-- [Surveillance système](https://github.com/topics/system-monitoring)
-- [Alertes d'incidents](https://github.com/topics/incident-monitoring)
-</details>
+### 📊 Data & Analytics
+- [**DataBot**](https://github.com/SmartBot-Guild/data-analytics)
+  - Visualisation de données
+  - Rapports automatisés
+  - Alertes personnalisées
+  - Machine Learning
 
 </details>
 
-<details>
-<summary><strong>🧠 [AI & Chatbots](https://github.com/topics/ai-chatbot) - Bots avec Intelligence Artificielle</strong></summary>
+## 🛠️ Technologies & Frameworks
 
 <details>
-<summary><strong>Chatbots</strong></summary>
-- [Bots conversationnels](https://github.com/topics/conversational-bots)
-- [FAQ automatisées](https://github.com/topics/faq-bot)
+<summary><strong>Stack Technique</strong></summary>
+
+### Languages
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  - [FastAPI](https://fastapi.tiangolo.com/)
+  - [discord.py](https://discordpy.readthedocs.io/)
+  - [python-telegram-bot](https://python-telegram-bot.org/)
+
+- [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+  - [Discord.js](https://discord.js.org/)
+  - [Telegraf](https://telegraf.js.org/)
+  - [Express](https://expressjs.com/)
+
+### Databases
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### DevOps
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+- [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+### AI & ML
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+- [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=hugging-face&logoColor=black)](https://huggingface.co/)
+
 </details>
 
+## 📚 Documentation
+
 <details>
-<summary><strong>AI Bots</strong></summary>
-- [Bots IA](https://github.com/topics/ai-assistant)
-- [Génération automatique de texte](https://github.com/topics/text-generation)
+<summary><strong>Guides & Tutorials</strong></summary>
+
+### 🚀 Démarrage
+1. [Installation rapide](https://docs.smartbot-guild.com/quickstart)
+2. [Configuration basique](https://docs.smartbot-guild.com/config)
+3. [Premiers pas](https://docs.smartbot-guild.com/first-steps)
+
+### 📖 Tutoriels Avancés
+- [Déploiement Docker](https://docs.smartbot-guild.com/docker)
+- [Intégration CI/CD](https://docs.smartbot-guild.com/cicd)
+- [Monitoring](https://docs.smartbot-guild.com/monitoring)
+
+### 🔧 API Reference
+- [Documentation API](https://api.smartbot-guild.com/docs)
+- [Exemples d'intégration](https://docs.smartbot-guild.com/examples)
+- [SDK Client](https://docs.smartbot-guild.com/sdk)
+
 </details>
 
-</details>
+## 🤝 Contribution
 
-<br><br>
-
-## 💻 Technologies
-
-### Langages
 <details>
-<summary><strong>Liste des langages</strong></summary>
-- [Python](https://www.python.org/)
-- [JavaScript/Node.js](https://nodejs.org/)
-- [Java](https://www.java.com/)
-- [Go](https://golang.org/)
-- [PHP](https://www.php.net/)
-- [Ruby](https://www.ruby-lang.org/)
-</details>
+<summary><strong>Comment Contribuer</strong></summary>
 
-### Frameworks & APIs
-<details>
-<summary><strong>Liste des frameworks & APIs</strong></summary>
-- [Discord.js](https://discord.js.org/)
-- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-- [Selenium](https://www.selenium.dev/)
-- [Puppeteer](https://pptr.dev/)
-- [OpenAI API](https://openai.com/api/)
-- [Hugging Face](https://huggingface.co/)
-</details>
+### 🌟 Types de Contributions
+- Développement de fonctionnalités
+- Correction de bugs
+- Documentation
+- Tests
+- Design UI/UX
 
-## 🛠️ Installation & Utilisation
-
-Chaque bot dispose de sa propre documentation incluant :
-- Prérequis
-- Guide d'installation
-- Configuration
-- Commandes disponibles
-- Guide de déploiement
-
-## 🔍 Navigation
-
-Pour trouver un bot spécifique :
-<details>
-<summary><strong>Instructions de recherche</strong></summary>
-1. Utilisez la [barre de recherche](https://github.com/search)
-2. Filtrez par [topics](https://github.com/topics)
-3. Explorez par catégorie de fonctionnalités
-</details>
-
-## ⚙️ Configuration Générale
-
-La plupart des bots nécessitent :
-<details>
-<summary><strong>Configuration requise</strong></summary>
-- [Tokens/API keys](https://www.google.com/search?q=how+to+get+api+keys)
-- Configuration d'environnement
-- Base de données (optionnel)
-- Hébergement
-</details>
-
-## 🔒 Sécurité
-
-**Recommandations pour l'utilisation des bots :**
-<details>
-<summary><strong>Conseils de sécurité</strong></summary>
-- [Stockez les tokens en toute sécurité](https://www.owasp.org/index.php/Secrets_Management)
-- Utilisez des [variables d'environnement](https://12factor.net/config)
-- Limitez les permissions d'accès
-- Surveillez l'utilisation des ressources
-</details>
-
-## 📚 Best Practices
-
-### Développement
-<details>
-<summary><strong>Pratiques recommandées pour le développement</strong></summary>
-- [Code modulaire](https://en.wikipedia.org/wiki/Modular_programming)
-- [Tests automatisés](https://www.agilealliance.org/glossary/automated-testing/)
-- [Gestion des erreurs](https://www.oreilly.com/library/view/clean-code-a/9780136083238/ch04.html)
-- [Logging approprié](https://www.digitalocean.com/community/tutorials)
-</details>
-
-### Déploiement
-<details>
-<summary><strong>Pratiques recommandées pour le déploiement</strong></summary>
-- [Conteneurisation (Docker)](https://www.docker.com/)
-- [CI/CD](https://www.atlassian.com/continuous-delivery)
-- [Monitoring](https://www.datadoghq.com/)
-- [Backups](https://www.backblaze.com/)
-</details>
-
-## 🤝 Contribuer
-
-Pour contribuer :
-<details>
-<summary><strong>Instructions de contribution</strong></summary>
-1. Forkez le repo du bot
-2. Créez une branche (`feature/AmazingFeature`)
-3. Commitez vos changements
-4. Poussez vers la branche
+### 📝 Process
+1. Fork le projet
+2. Créez votre branche (`git checkout -b feature/AmazingFeature`)
+3. Commitez vos changements (`git commit -m 'Add: Amazing Feature'`)
+4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
+
+### 🎯 Standards de Code
+- [Guide de style Python](https://docs.smartbot-guild.com/style-guide/python)
+- [Guide de style JavaScript](https://docs.smartbot-guild.com/style-guide/js)
+- [Conventions de commit](https://docs.smartbot-guild.com/commits)
+
 </details>
 
-## 📫 Contact
+## 📫 Support & Contact
 
-- GitHub: [@username](https://github.com/username)
-- Discord: [username#0000](https://discordapp.com/users/username)
-- Email: [email@example.com](mailto:email@example.com)
+<details>
+<summary><strong>Besoin d'aide ?</strong></summary>
 
-## 📝 Licence
+### Communauté
+- [Discord Server](https://discord.gg/votre-serveur)
+- [Forum](https://forum.smartbot-guild.com)
+- [GitHub Discussions](https://github.com/SmartBot-Guild/discussions)
 
-Chaque bot conserve sa licence d'origine. Consultez le fichier LICENSE de chaque repo pour plus de détails.
+### Support Direct
+- [Support Technique](https://support.smartbot-guild.com)
+- [Email](mailto:support@smartbot-guild.com)
+- [Twitter](https://twitter.com/SmartBotGuild)
+
+</details>
 
 ---
 
-⭐ Donnez une étoile aux bots que vous trouvez utiles !  
-🔄 Mise à jour régulière avec de nouveaux bots !
-
 <div align="center">
-*Automatisez avec passion, codez avec éthique* 🤖
+
+### 🌟 Supportez le Projet
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/SmartBot-Guild)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SmartBotGuild)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/smartbotguild)
+
+*Construisons ensemble l'avenir de l'automatisation* 🚀
+
+[Site Web](https://smartbot-guild.com) • [Blog](https://blog.smartbot-guild.com) • [Status](https://status.smartbot-guild.com)
+
 </div>
