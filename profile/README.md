@@ -7,10 +7,14 @@
 
 <br>
 
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![GitHub Python Bots](https://img.shields.io/badge/GitHub-Python_Bots-3776AB?logo=python)](https://github.com/SmartBot-Guild/Python-Bots)
-[![GitHub JS Bots](https://img.shields.io/badge/GitHub-JS_Bots-181717?logo=javascript)](https://github.com/SmartBot-Guild/JS-Bots)
-[![GitHub Telegram Bots](https://img.shields.io/badge/GitHub-Telegram_Bots-0088cc?logo=telegram)](https://github.com/SmartBot-Guild/Telegram-Bots)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+
 
 <br>
 
@@ -28,21 +32,26 @@
 
 <details>
 <summary><strong>1. Rejoignez la communauté</strong></summary>
+
 [![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+
 </details>
 
 <details>
 <summary><strong>2. Explorez nos ressources</strong></summary>
-- 📚 [Documentation technique](https://github.com/SmartBot-Guild/Docs)
-- 🔧 [Outils spécialisés](https://github.com/SmartBot-Guild/Tools)
-- 📖 [Guides pratiques](https://github.com/SmartBot-Guild/Guides)
-</details>
 
+- 📚 Documentation technique
+- 🔧 Outils spécialisés
+- 📖 Guides pratiques
+
+</details>
 <details>
 <summary><strong>3. Contribuez à l'écosystème</strong></summary>
+
 - Partagez votre expérience
 - Proposez des améliorations
 - Enrichissez la communauté
+
 </details>
 <br><br>
 
