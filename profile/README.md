@@ -132,7 +132,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <details>
 <summary><strong>Fondamentaux de l'Automatisation</strong></summary>
 
-- [**Guide du Débutant**](https://github.com/SmartBot-Guild/beginner-guide)
+- [**Guide du Débutant**](#)
   - 🛠️ **Installation Essentielle**
     - Configuration de Git et GitHub
     - Mise en place de Conventional Commits Bot
@@ -163,7 +163,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <details>
 <summary><strong>Maîtrise des Outils Avancés</strong></summary>
 
-- [**Guide Intermédiaire**](https://github.com/SmartBot-Guild/intermediate-guide)
+- [**Guide Intermédiaire**](#)
   - 🔧 **Configuration Avancée**
     - Personnalisation complète de dotfiles
     - Integration de GitHub Actions
@@ -194,7 +194,7 @@ Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire ga
 <details>
 <summary><strong>Excellence et Innovation</strong></summary>
 
-- [**Guide Expert**](https://github.com/SmartBot-Guild/expert-guide)
+- [**Guide Expert**](#)
   - 🎯 **Expertise Technique**
     - Développement d'outils personnalisés
     - Création de plugins et extensions
