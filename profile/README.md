@@ -1,224 +1,123 @@
 <div align="center">
 
 # 🤖 SmartBot-Guild
----
-
-*Collection de bots et d'automatisations pour les développeurs*
-
-<br>
-
-[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
-[![Awesome Bots](https://img.shields.io/badge/Awesome-Bots-FC60A8?logo=awesomelists)](https://github.com/topics/automation-bot)
-
-*Gagnez du temps sur les tâches répétitives*
+*Votre collection de bots pour automatiser vos tâches de développement*
 
 </div>
 
-> [!WARNING]
-> ### ⚠️ Précautions d'Usage
-> 
-> - Vérifiez toujours les permissions des bots
-> - Lisez la documentation avant utilisation
-> - Évitez les automatisations sur main/master
-> - Sauvegardez avant toute action automatisée
-> - Respectez les rate limits des APIs
+## 🎯 À quoi sert ce hub ?
 
-<br>
+Ce hub regroupe les meilleurs bots et outils d'automatisation pour vous faire gagner du temps dans vos tâches quotidiennes de développement. Plus besoin de chercher pendant des heures, tout est centralisé ici !
 
-## 🤖 Bots & Automatisations
+## 🤖 Nos Collections
 
-<details>
-<summary><strong>🔄 Gestion de Version</strong></summary>
+### 1️⃣ Automatisation des Commits Git
 
-### Commit Automation
-- [**Commitizen**](https://github.com/commitizen/cz-cli)
-  - Standardisation des commits
-  - Génération de changelog
-  - Integration VS Code et CLI
+**[Conventional Commits Bot](https://github.com/conventional-changelog/commitlint)**
+```bash
+# Ce bot vous aide à écrire des commits propres et standardisés
+npm install -g @commitlint/cli
+```
+- ✨ **Pourquoi l'utiliser ?** Fini les commits du style "fix stuff" ou "update"
+- 📝 **Comment ça marche ?** Il vous guide pour écrire vos commits : type, portée, description
+- 💡 **Exemple concret :** Au lieu de écrire "fix bug", il vous fera écrire "fix(login): correct password validation"
 
-- [**Semantic Release**](https://github.com/semantic-release/semantic-release)
-  - Release automatique
-  - Versioning sémantique
-  - Integration CI/CD
+### 2️⃣ Configuration Automatique
 
-- [**Husky**](https://github.com/typicode/husky)
-  - Git hooks automatisés
-  - Pre-commit checks
-  - Validation de commits
+**[dotfiles Bot](https://github.com/CodelyTV/dotly)**
+```bash
+# Configure automatiquement votre environnement de développement
+bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/master/installer)
+```
+- 🔧 **À quoi ça sert ?** Configure votre environnement en 2 minutes au lieu de 2 heures
+- 🚀 **Que fait-il ?** Installe et configure : git, zsh, vim, vscode, et bien plus
+- 📦 **Le plus :** Sauvegarde votre configuration pour la réutiliser sur une autre machine
 
-### Update & Sync
-- [**Dependabot**](https://github.com/dependabot)
-  - Mise à jour auto des dépendances
-  - Security patches
-  - PR automatiques
+### 3️⃣ Assistant Discord pour Développeurs
 
-- [**Renovate**](https://github.com/renovatebot/renovate)
-  - Multi-repository updates
-  - Scheduling personnalisable
-  - Large support des packages
+**[DevBot](https://github.com/reactiflux/discord-irc)**
+- 🤖 **Son rôle :** Votre assistant personnel pour gérer vos projets sur Discord
+- 📚 **Fonctionnalités :**
+  ```
+  !github status - Vérifie l'état de vos repos
+  !deploy project - Lance un déploiement
+  !todo - Gère votre liste de tâches
+  ```
+- 🎯 **Idéal pour :** Les équipes qui utilisent Discord comme outil principal
 
-</details>
+### 4️⃣ Mise à Jour Automatique des Dépendances
 
-<details>
-<summary><strong>⚙️ Environnement Dev</strong></summary>
+**[Dependabot](https://github.com/dependabot/dependabot-core)**
+- 🔄 **Ce qu'il fait :** Vérifie et met à jour automatiquement vos dépendances
+- ⚡ **Configuration simple :**
+  ```yaml
+  # .github/dependabot.yml
+  version: 2
+  updates:
+    - package-ecosystem: "npm"
+      directory: "/"
+      schedule:
+        interval: "daily"
+  ```
+- 🛡️ **Pourquoi c'est important ?** Maintient votre projet sécurisé et à jour sans effort
 
-### Setup Automation
-- [**dotbot**](https://github.com/anishathalye/dotbot)
-  - Gestion des dotfiles
-  - Installation automatisée
-  - Configuration portable
+### 5️⃣ Tests Automatisés
 
-- [**mise**](https://github.com/jdx/mise)
-  - Gestion des versions
-  - Configuration projet
-  - Multiple languages support
+**[GitHub Actions Bot](https://github.com/actions/starter-workflows)**
+- 🧪 **Objectif :** Lance vos tests automatiquement à chaque push
+- 📋 **Setup rapide :**
+  ```yaml
+  # .github/workflows/test.yml
+  name: Tests
+  on: [push]
+  jobs:
+    test:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - run: npm test
+  ```
+- 🎉 **Avantage :** Plus besoin de penser à lancer les tests
 
-### IDE & Editor Bots
-- [**GitHub Copilot**](https://github.com/features/copilot)
-  - Autocomplétion IA
-  - Suggestions de code
-  - Multi-IDE support
+## 🚀 Par où commencer ?
 
-- [**TabNine**](https://github.com/codota/TabNine)
-  - Autocomplétion locale
-  - Support offline
-  - Multi-language
+1. **Pour débutants :**
+   - Commencez par Conventional Commits Bot pour apprendre les bonnes pratiques
+   - Utilisez dotfiles Bot pour avoir un environnement pro rapidement
+   - Intégrez DevBot à votre Discord
 
-</details>
+2. **Pour niveau intermédiaire :**
+   - Ajoutez Dependabot pour la maintenance automatique
+   - Configurez les GitHub Actions pour vos tests
 
-<details>
-<summary><strong>📊 Qualité & Testing</strong></summary>
+3. **Pour avancés :**
+   - Combinez tous les outils
+   - Créez vos propres scripts d'automatisation
 
-### Code Quality
-- [**SonarQube**](https://github.com/SonarSource/sonarqube)
-  - Analyse statique
-  - Code smells
-  - Security checks
+## 💡 Besoin d'aide ?
 
-- [**DeepSource**](https://github.com/deepsourcelabs/cli)
-  - Code review automatique
-  - Security scanning
-  - Best practices
+- 🤔 **Question courante :** "Comment choisir le bon bot ?"
+  → Commencez par identifier votre tâche la plus répétitive !
 
-### Testing
-- [**Stryker Mutator**](https://github.com/stryker-mutator/stryker)
-  - Test mutation
-  - Coverage analysis
-  - Multi-framework
+- 🆘 **Problème d'installation ?**
+  → Chaque bot a un guide détaillé dans sa section
 
-- [**TestCafe**](https://github.com/DevExpress/testcafe)
-  - Tests E2E automatisés
-  - Cross-browser testing
-  - CI/CD integration
+- 📚 **Envie d'en savoir plus ?**
+  → Rejoignez notre Discord pour l'entraide !
 
-</details>
+## 🌟 Contribuer
 
-<details>
-<summary><strong>🔧 DevOps & Workflow</strong></summary>
-
-### CI/CD
-- [**Jenkins X Bot**](https://github.com/jenkins-x/jx)
-  - Pipeline automation
-  - Kubernetes native
-  - GitOps workflows
-
-- [**GitHub Actions Bot**](https://github.com/actions/toolkit)
-  - Workflow automation
-  - Event-driven actions
-  - Community actions
-
-### Monitoring
-- [**Datadog Agent**](https://github.com/DataDog/datadog-agent)
-  - Monitoring temps réel
-  - Metrics collection
-  - APM integration
-
-- [**Prometheus Bot**](https://github.com/prometheus/alertmanager)
-  - Alerting automation
-  - Metric monitoring
-  - Integration Discord/Slack
-
-</details>
-
-<details>
-<summary><strong>🤖 Discord Dev Tools</strong></summary>
-
-### Project Management
-- [**Apollo**](https://github.com/acdenisSK/apollo)
-  - Project tracking
-  - Git integration
-  - Command framework
-
-- [**Red Bot**](https://github.com/Cog-Creators/Red-DiscordBot)
-  - Modular bot system
-  - Developer tools
-  - Custom commands
-
-### Development
-- [**discord.js**](https://github.com/discordjs/discord.js)
-  - Bot framework
-  - Easy deployment
-  - Rich features
-
-- [**discord.py**](https://github.com/Rapptz/discord.py)
-  - Async framework
-  - Event handling
-  - Extension system
-
-</details>
-
-## 🛠️ Outils Populaires
-
-<details>
-<summary><strong>Stack Automation</strong></summary>
-
-### Scripts & Task Runners
-- [**pm2**](https://github.com/Unitech/pm2)
-  - Process management
-  - Auto-restart
-  - Log management
-
-- [**nx**](https://github.com/nrwl/nx)
-  - Monorepo management
-  - Task automation
-  - Build system
-
-### Docker & Container
-- [**Watchtower**](https://github.com/containrrr/watchtower)
-  - Container updates
-  - Auto-deployment
-  - Clean-up
-
-- [**Portainer**](https://github.com/portainer/portainer)
-  - Container management
-  - GUI interface
-  - Multi-platform
-
-</details>
-
-## 🔗 Liens Utiles
-
-<details>
-<summary><strong>Ressources Automation</strong></summary>
-
-### Topics GitHub
-- [Automation Bots](https://github.com/topics/automation-bot)
-- [DevOps Tools](https://github.com/topics/devops-tools)
-- [Developer Tools](https://github.com/topics/developer-tools)
-
-### Awesome Lists
-- [Awesome DevOps](https://github.com/awesome-soft/awesome-devops)
-- [Awesome Bots](https://github.com/invocable/awesome-bots)
-- [Awesome Automation](https://github.com/awesome-selfhosted/awesome-selfhosted)
-
-</details>
+Vous connaissez un super bot qui manque à notre collection ? Partagez-le !
+1. Fork ce repo
+2. Ajoutez votre bot avec un guide clair
+3. Créez une Pull Request
 
 ---
 
 <div align="center">
 
-*Automatisez intelligemment* 🚀
+*Simplifiez votre vie de développeur avec les bons outils !* 🚀
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[Discord](https://discord.gg/smartbot-guild) • [GitHub](https://github.com/SmartBot-Guild)
 
 </div>
