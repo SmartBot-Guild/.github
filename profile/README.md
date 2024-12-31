@@ -9,10 +9,11 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Gaming-181717?logo=github)](https://github.com/42-Gaming)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Wiki-181717?logo=github)](https://github.com/42-Wiki)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Survival_Guide-181717?logo=github)](https://github.com/42-Survival-Guide)
+
 
 <br>
 
